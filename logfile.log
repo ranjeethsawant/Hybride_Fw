@@ -1,0 +1,36 @@
+2022-08-15 22:47:34,651 INFO  [Log] App open 
+2022-08-15 22:47:35,021 INFO  [Log] App Close 
+2022-08-15 22:47:37,216 INFO  [Log] App open 
+2022-08-15 22:47:39,442 INFO  [Log] App Close 
+2022-08-15 22:47:41,679 INFO  [Log] App open 
+2022-08-15 22:47:42,998 INFO  [Log] Enter frame 
+2022-08-15 22:47:43,008 INFO  [Log] exit frame 
+2022-08-15 22:47:43,587 INFO  [Log] App Close 
+2022-08-15 22:47:45,808 INFO  [Log] App open 
+2022-08-15 22:47:46,984 INFO  [Log] Enter frame 
+2022-08-15 22:47:49,645 INFO  [Log] Add Emp detail 
+2022-08-15 22:47:49,657 INFO  [Log] exit frame 
+2022-08-15 22:47:54,626 INFO  [Log] App Close 
+2022-08-15 22:47:57,070 INFO  [Log] App open 
+2022-08-15 22:47:58,568 INFO  [Log] Enter frame 
+2022-08-15 22:48:06,883 INFO  [Log] Upload file 
+2022-08-15 22:48:06,902 INFO  [Log] exit frame 
+2022-08-15 22:48:07,344 INFO  [Log] App Close 
+2022-08-15 22:48:26,660 INFO  [Log] App open 
+2022-08-15 22:48:27,124 INFO  [Log] App Close 
+2022-08-15 22:48:29,351 INFO  [Log] App open 
+2022-08-15 22:48:31,259 INFO  [Log] App Close 
+2022-08-15 22:48:33,743 INFO  [Log] App open 
+2022-08-15 22:48:35,100 INFO  [Log] Enter frame 
+2022-08-15 22:48:35,119 INFO  [Log] exit frame 
+2022-08-15 22:48:40,238 INFO  [Log] App Close 
+2022-08-15 22:48:42,526 INFO  [Log] App open 
+2022-08-15 22:48:43,899 INFO  [Log] Enter frame 
+2022-08-15 22:48:46,899 INFO  [Log] Add Emp detail 
+2022-08-15 22:48:46,927 INFO  [Log] exit frame 
+2022-08-15 22:48:51,864 INFO  [Log] App Close 
+2022-08-15 22:48:54,010 INFO  [Log] App open 
+2022-08-15 22:48:55,318 INFO  [Log] Enter frame 
+2022-08-15 22:49:04,717 INFO  [Log] Upload file 
+2022-08-15 22:49:04,756 INFO  [Log] exit frame 
+2022-08-15 22:49:05,182 INFO  [Log] App Close 
